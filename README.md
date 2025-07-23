@@ -26,7 +26,7 @@ This project provides a sales-driven insight into Amazon product performance usi
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Screenshot](./Screenshot%202025-07-23%20054835.png)
+![Dashboard Screenshot](https://github.com/harshitha-tankasala/amazon-products-sales-analysis-powerbi/blob/main/amazon_products_sales_dashboard.png)
 
 The dashboard includes dynamic filtering and comparative sales analysis between Year-To-Date (YTD) and Quarter-To-Date (QTD) periods across different product categories.
 
