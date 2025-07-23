@@ -108,7 +108,7 @@ The dashboard includes dynamic filtering and comparative sales analysis between 
 3. Interact with slicers to explore filtered insights.
 4. Connect your own dataset (optional) through "Transform Data" > "Edit Queries".
 
-📁 **Download dataset**: [Click here](./data/amazon_products_sales.csv)
+📁 **Download dataset**: [Click here](https://github.com/harshitha-tankasala/amazon-products-sales-analysis-powerbi/blob/main/Amazon_Combined_Data.xlsx)
 
 ---
 
